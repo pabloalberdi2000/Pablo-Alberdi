@@ -66,14 +66,6 @@ Bidelu es un ecosistema moderno que resuelve la gestión dinámica de contenidos
 
 ---
 
-## 📊 Actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PABLO_ALBERDI_USER&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO_ALBERDI_USER&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 📈 Áreas de Especialización
 * **Arquitectura de Producto:** Definición de flujos de trabajo resilientes con **Temporal**.
 * **Big Data:** Análisis y almacenamiento masivo con **Clickhouse**.
