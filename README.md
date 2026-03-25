@@ -62,11 +62,38 @@ Mi trabajo se centra en resolver problemas complejos donde el volumen de datos y
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos Destacados
+
+### 🍽️ [Bidelu - SaaS para Restaurantes](https://github.com/tu-usuario/bidelu)
+**Plataforma B2B SaaS** diseñada para digitalizar la presencia de restaurantes de alto nivel (venciendo retos de latencia y gestión de contenidos dinámicos).
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PABLO_ALBERDI_USER&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO_ALBERDI_USER&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contentful-24292e?style=for-the-badge&logo=contentful&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
+<details>
+<summary><b>Ver detalles del proyecto</b></summary>
+
+* **Arquitectura:** Implementación de un Headless CMS (Contentful) para gestión de menús multi-idioma en tiempo real.
+* **Rendimiento:** Optimización de carga paralela con **React Query**, logrando que el contenido crítico (menús) sea visible antes de que finalicen todas las peticiones de red.
+* **Internacionalización:** Soporte nativo para 4 idiomas (ES, EN, FR, EU) con detección automática.
+* **UI/UX:** Diseño Mobile-First utilizando **shadcn/ui** y animaciones fluidas con **Framer Motion**.
+</details>
+
+---
+
+## 🛠️ Stack Tecnológico Profesional
+---
+
+## 🎓 Formación Continua & IA
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Engineer_Candidate-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black" />
+</p>
+
+Actualmente cursando una especialización técnica en **IA Engineering**. Mi objetivo es integrar modelos generativos y automatización inteligente en el ecosistema de productos Telco y AdTech que lidero, optimizando la toma de decisiones basada en datos masivos.
 
 ---
 
