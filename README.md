@@ -1,12 +1,10 @@
-# Pablo-Alberdi
-
 <div align="center">
 
 # 🚀 Pablo Alberdi
-### **Product Analyst | Software Architect | Lead Developer**
+### **Product Analyst | Software Architect | AI Strategy**
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alberdi-343874231)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palberdi2000@gmail.com)
 
 </div>
 
@@ -19,18 +17,18 @@ Actualmente, me desempeño como **Product Analyst** en una de las empresas de **
 
 * **Liderazgo:** Dirijo un equipo de **10 desarrolladores** de alto rendimiento.
 * **Producto:** Responsable del diseño de arquitectura y definición de funcionalidades para una plataforma avanzada en el **ámbito publicitario (AdTech)**.
-* **Visión:** Mi enfoque combina la rentabilidad del producto con una infraestructura escalable y moderna.
+* **IA & Futuro:** Actualmente curso una especialización como **AI Engineer** para liderar la automatización de procesos y la implementación de soluciones de Inteligencia Artificial de última generación.
 
 ---
 
 ## 🛠️ Stack Tecnológico
-He diseñado y supervisado ecosistemas basados en tecnologías robustas para el manejo de datos a gran escala:
+Diseño y superviso ecosistemas escalables preparados para el procesamiento de datos masivos y automatización inteligente:
 
 <table align="center">
   <tr>
     <td align="center" width="200"><strong>Frontend & Backend</strong></td>
     <td align="center" width="200"><strong>Infraestructura & Cloud</strong></td>
-    <td align="center" width="200"><strong>Data & Workflow</strong></td>
+    <td align="center" width="200"><strong>Data & AI Tools</strong></td>
   </tr>
   <tr>
     <td>
@@ -42,9 +40,9 @@ He diseñado y supervisado ecosistemas basados en tecnologías robustas para el 
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/clickhouse-%23ffcc00.svg?style=flat&logo=clickhouse&logoColor=black" /> <br>
-      <img src="https://img.shields.io/badge/Temporal-%23111.svg?style=flat&logo=temporal&logoColor=white" />
+      <img src="https://img.shields.io/badge/Temporal-%23111.svg?style=flat&logo=temporal&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/AI_Automation-blue?style=flat&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -53,24 +51,25 @@ He diseñado y supervisado ecosistemas basados en tecnologías robustas para el 
 
 ## 📈 Impacto y Especialidad
 <details>
-<summary><strong>🔍 Haz clic para ver mi enfoque de arquitectura</strong></summary>
+<summary><strong>🔍 Haz clic para ver mi enfoque técnico y de producto</strong></summary>
 
-Mi trabajo se centra en resolver problemas complejos de publicidad digital, donde la **latencia** y el **volumen de datos** son críticos:
-* **Clickhouse:** Implementación para analítica en tiempo real de eventos masivos.
-* **Temporal.io:** Gestión de flujos de trabajo (workflows) duraderos y tolerantes a fallos.
-* **Kubernetes:** Orquestación de microservicios escalables en Google Cloud.
+Mi trabajo se centra en resolver problemas complejos donde el volumen de datos y la eficiencia operativa son críticos:
+* **Automatización con IA:** Integración de modelos de IA para optimizar flujos de trabajo y toma de decisiones en el sector Telco.
+* **Clickhouse:** Analítica masiva en tiempo real para eventos publicitarios.
+* **Temporal.io:** Orquestación de flujos de trabajo resilientes.
+* **Estrategia ADE:** Análisis de viabilidad y ROI de cada funcionalidad técnica desarrollada.
 </details>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=PABLO_ALBERDI_USER&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO_ALBERDI_USER&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
 <p align="right">
-  <i>"Transformando datos y código en decisiones estratégicas de negocio."</i>
+  <i>"Uniendo la ingeniería, el negocio y la IA para crear productos que transforman industrias."</i>
 </p>
